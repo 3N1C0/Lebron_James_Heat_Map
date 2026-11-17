@@ -13,7 +13,7 @@ A Jupyter notebook that plots LeBron James's shot locations on a basketball cour
 
 - **Data loading and cleaning** with pandas
 - **Custom plots:** drawing a basketball court from matplotlib arcs and patches
-- **Density visualisation:** a heat map of shot frequency with seaborn
+- **Density visualisation:** a kernel density estimate (KDE) of shot locations with seaborn, shown as a heat map
 - **Presenting data:** colour scales and a clear, annotated chart
 
 ## Run it
